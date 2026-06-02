@@ -5,8 +5,8 @@
 #include <stdio.h>
  void main()
  {
-     int Phy, Chem, Math, Eng, Guj,tota,perc,pen,a,b,c;
-        printf("Enter marks of Phy:");
+     int Phy, Chem, Math, Eng,  Guj,tota,perc,pen,a,b,c;
+    printf("Enter marks of Phy:");
     scanf("%d",&Phy);
     printf("Enter marks of Chem:");
     scanf("%d",&Chem);
