@@ -19,8 +19,8 @@
     tota= Phy+Chem+Math+Eng+Guj;
     printf("total=%d",tota);
     
-    perc = tota/500*100;
-    pen=0;
+     perc = tota/500*100;
+     pen=0;
     
 if(a<18 || b<18 || c<18)
 {
