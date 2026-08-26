@@ -1,0 +1,7 @@
+x = "                                                      Hello World"
+f = x.strip()
+g = x.rstrip()
+h = x.lstrip()
+print(f)
+print(g)
+print(h)
