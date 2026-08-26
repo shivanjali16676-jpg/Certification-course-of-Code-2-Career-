@@ -1,0 +1,8 @@
+mydic = {}
+count = int(input("How many records:"))
+for i in range(0,count):
+  key = input("Enter Key:")
+  value = input("Enter Value:")
+  mydic[key] = value
+
+print(mydic)
